@@ -21,7 +21,7 @@ The Danny's Diner SQL Case Study focuses on various aspects of the diner’s ope
 - **Language:** SQL
 
 ## 🚀 Project Link
-Explore the full project here: [Danny's Diner SQL Case Study](https://lnkd.in/dg_f384a)
+Explore the full project on my linkdin here: [Danny's Diner SQL Case Study] https://www.linkedin.com/posts/shahrizwan819_sql-project-dannys-diner-activity-7236005715486621696-A_y8?utm_source=share&utm_medium=member_desktop 
 
 ## 📂 Dataset
 - **Dataset Link:** [Danny's Diner Dataset](https://github.com/ShahRizwan007/SQl_project_ShahRizwan007-SQL_PROJECT_Danny_Diner/blob/main/Dannys_Diner.csv)
