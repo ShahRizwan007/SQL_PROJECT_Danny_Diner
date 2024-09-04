@@ -27,4 +27,4 @@ Explore the full project on my linkdin here: [Danny's Diner SQL Case Study] http
 - **Dataset Link:** [Danny's Diner Dataset](https://github.com/ShahRizwan007/SQl_project_ShahRizwan007-SQL_PROJECT_Danny_Diner/blob/main/Dannys_Diner.csv)
 
 ## 📂 Files
-- **Danny's_Diner_Analysis.sql:** Contains all the SQL queries used in the analysis.
+- **Danny's_Diner.sql:** Contains all the SQL queries used in the analysis.
