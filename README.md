@@ -20,11 +20,13 @@ The Danny's Diner SQL Case Study focuses on various aspects of the diner’s ope
 - **Database:** mysql
 - **Language:** SQL
 
-## 🚀 Project Link
-Explore the full project on my linkdin here: [Danny's Diner SQL Case Study] https://www.linkedin.com/posts/shahrizwan819_sql-project-dannys-diner-activity-7236005715486621696-A_y8?utm_source=share&utm_medium=member_desktop 
+**Dataset Link:** [Danny's Diner Dataset](https://github.com/ShahRizwan007/SQl_project_ShahRizwan007-SQL_PROJECT_Danny_Diner/blob/main/Dannys_Diner.csv)  
 
-## 📂 Dataset
-- **Dataset Link:** [Danny's Diner Dataset](https://github.com/ShahRizwan007/SQl_project_ShahRizwan007-SQL_PROJECT_Danny_Diner/blob/main/Dannys_Diner.csv)
+**Linkedin Post** :[https://www.linkedin.com/feed/update/urn:li:activity:7244926263591682048/](https://www.linkedin.com/feed/update/urn:li:activity:7236005715486621696/)
 
-## 📂 Files
-- **Danny's_Diner.sql:** Contains all the SQL queries used in the analysis.
+Please feel free to give any suggestion or feedback, If you like this post give it a like and share it. Follow me on github and linkedin for more useful data analyst project
+
+
+**Linkedin profile**:https://lnkd.in/dJguGPtK
+
+
